@@ -17,8 +17,10 @@ description: > # "Write an awesome description for your new site here.
   het zou ideaal zijn als de ouders aan de lectuur deelnemen en erover met
   hun kinderen in dialoog treden, in de hoop dat het hen aanspoort om zelf
   ook naar nieuwe facetten van het geloof op zoek te gaan. 
-baseurl: "/parels" # the subpath of your site, e.g. /blog
-url: "http://parels.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github:
+  url: http://localhost:4000
 twitter_username: vicmortelmans
 github_username: vicmortelmans 
 
