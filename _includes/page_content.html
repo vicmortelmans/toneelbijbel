@@ -3,14 +3,12 @@
 {% for post in site.posts reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
-    <div class="content-section-a">
+    <div class="content-section-a" {% if post.anchor %}id="{{post.anchor}}"{% endif %}>
 
         <div class="container">
 
             <div class="row">
                 <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <div class="lead">{{ post.content }}</div>
                 </div>
@@ -26,14 +24,12 @@
     <!-- /.content-section-a -->
     {% else %}
 
-    <div class="content-section-b">
+    <div class="content-section-b" {% if post.anchor %}id="{{post.anchor}}"{% endif %}>
 
         <div class="container">
 
             <div class="row">
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <div class="lead">{{ post.content }}</div>
                 </div>

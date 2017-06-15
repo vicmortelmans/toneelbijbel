@@ -164,3 +164,8 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+/* additions by Vic Mortelmans for parels */
+ph.accent {
+    color: #FF3300;
+}
