@@ -166,6 +166,6 @@ p.copyright {
 }
 
 /* additions by Vic Mortelmans for parels */
-ph.accent {
+ph.accent, h2 {
     color: #FF3300;
 }
