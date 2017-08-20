@@ -2,23 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://parels.gelovenleren.net
-title: Parels van het Katholieke Geloof
+url: http://toneelbijbel.gelovenleren.net
+title: De Toneelbijbel
 email: info@gelovenleren.net
 author: Geloven Leren
 description: > # "Write an awesome description for your new site here. 
-  Parels van het Katholieke Geloof is een boek dat in veertien korte
-  hoofdstukken een bloemlezing brengt van het rijke rooms-katholieke
-  geloofsleven. Het streeft geen volledigheid na en is evenmin opgebouwd
-  volgens een bepaald programma, maar het laat enkele facetten oplichten van
-  het katholieke geloof die vaak onderbelicht blijven. Het is geschreven
-  voor jongeren die na hun vormsel bereid zijn hun geloof verder te
-  ontwikkelen. Sommige hoofdstukken vereisen meer achtergrondkennis, dus
-  het zou ideaal zijn als de ouders aan de lectuur deelnemen en erover met
-  hun kinderen in dialoog treden, in de hoop dat het hen aanspoort om zelf
-  ook naar nieuwe facetten van het geloof op zoek te gaan. 
-baseurl: "/parels" # the subpath of your site, e.g. /blog
-url: "http://parels.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  De basis van De Toneelbijbel is de synopsis van de vier Evangelies volgens Mattheus, Markus, Lukas en Johannes. In de synopsis worden de verhaallijnen van de Evangelies samengesmolten tot een enkele verhaallijn die alle elementen bevat uit de afzonderlijke Evangelies en die uit overlappende verhaallijnen degene kiest die het meest geschikt is voor dramatisering. Zowat alle dialogen zijn reeds uitgeschreven door de evangelisten, dus de omzetting naar toneel is rechttoe-rechtaan en het resultaat is een toneelscript dat haast helemaal is samengesteld uit letterlijke bijbelfragmenten. De publicatie geeft bij elk element van de dialoog en bij elke regieaanwijzing de referentie naar de brontekst.
+  De toneelbewerking van het Evangelie is niet bedoeld om uit te voeren voor groot publiek, maar aarzel niet om bij gelegenheid samen met de kinderen thuis, in de catechesegroep of in de klas een of meerdere bedrijven uit te voeren om het bijbelverhaal wat leven in te blazen. Of neem het stuk zelf bij de hand als alternatieve bijbellezing!
+baseurl: "/toneelbijbel" # the subpath of your site, e.g. /blog
+url: "http://toneelbijbel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vicmortelmans
 github_username: vicmortelmans 
 
